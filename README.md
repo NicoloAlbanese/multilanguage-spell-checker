@@ -22,9 +22,9 @@ with body:
 
 {
 
-\t"text": "Hello, this sentencee does indeeed contain somee mistackes",
+&nbsp;&nbsp;&nbsp;"text": "Hello, this sentencee does indeeed contain somee mistackes",
 
-\t"min_prob": 0.99
+&nbsp;&nbsp;&nbsp;"min_prob": 0.99
 
 }
 
@@ -32,20 +32,20 @@ To obtain:
 
 {
 
-\t"Language": {
+&nbsp;&nbsp;&nbsp;"Language": {
 
-\t\t"lang": "en",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lang": "en",
 
-\t\t"prob": 0.9999955090592161
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prob": 0.9999955090592161
 
-\t},
+&nbsp;&nbsp;&nbsp;},
 
-\t"SpellCheck": {
+&nbsp;&nbsp;&nbsp;"SpellCheck": {
 
-\t\t"similarity": 0.9617898441427855,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"similarity": 0.9617898441427855,
 
-\t\t"suggestion": "Hello this sentence does indeed contain some mistakes"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"suggestion": "Hello this sentence does indeed contain some mistakes"
 
- \t}
+ &nbsp;&nbsp;&nbsp;}
 
 }

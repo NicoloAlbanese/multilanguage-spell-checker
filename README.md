@@ -21,19 +21,31 @@ http://127.0.0.1:5000/analyze-sentence
 with body:
 
 {
-    "text": "Hello, this sentencee does indeeed contain somee mistackes",
-    "min_prob": 0.99
+
+   "text": "Hello, this sentencee does indeeed contain somee mistackes",
+
+   "min_prob": 0.99
+
 }
 
 To obtain:
 
 {
-    "Language": {
-        "lang": "en",
-        "prob": 0.9999955090592161
-    },
-    "SpellCheck": {
-        "similarity": 0.9617898441427855,
-        "suggestion": "Hello this sentence does indeed contain some mistakes"
-    }
+
+ "Language": {
+
+   "lang": "en",
+
+   "prob": 0.9999955090592161
+
+ },
+
+ "SpellCheck": {
+
+   "similarity": 0.9617898441427855,
+
+   "suggestion": "Hello this sentence does indeed contain some mistakes"
+
+  }
+
 }

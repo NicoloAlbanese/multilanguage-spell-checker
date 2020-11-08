@@ -34,17 +34,17 @@ To obtain:
 
 &nbsp;&nbsp;&nbsp;"Language": {
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lang": "en",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lang": "en",
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prob": 0.9999955090592161
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prob": 0.9999955090592161
 
 &nbsp;&nbsp;&nbsp;},
 
 &nbsp;&nbsp;&nbsp;"SpellCheck": {
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"similarity": 0.9617898441427855,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"similarity": 0.9617898441427855,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"suggestion": "Hello this sentence does indeed contain some mistakes"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"suggestion": "Hello this sentence does indeed contain some mistakes"
 
  &nbsp;&nbsp;&nbsp;}
 

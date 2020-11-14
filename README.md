@@ -18,7 +18,7 @@ A measure of similarity between the input and recommended text is also provided:
 
 This project comes with a [Sample Notebook](https://github.com/NicoloAlbanese/multilanguage-spell-checker/blob/main/sample_notebook/Multilingual_spell_checker.ipynb) that may be executed on Google Colab.
 
-Here are some examples of what the service returns, given input sentences from different languages:
+Here are some examples of what the service returns from different input sentences:
 
 ![Recommendations Example](https://github.com/NicoloAlbanese/multilanguage-spell-checker/blob/main/img/img4.png)
 
@@ -43,8 +43,6 @@ Providing in the body the string "text" (input sentence to analyze) and the doub
 
 Example:
 
-From Postman:
-
 ![API call](https://github.com/NicoloAlbanese/multilanguage-spell-checker/blob/main/img/img5.png)
 
 
@@ -57,3 +55,5 @@ Currently, the supported languages are:
 * German
 * Spanish
 * Italian
+
+More languages may be easily included by installing the appropriate dictionaries and configuring them in the project.
